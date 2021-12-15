@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YouseungLee
-- 👀 I’m interested in Node.JS
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me snagg1377@gmail.com <br/>
-<img alt="Javascript" src ="https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+:muscle: #H1    ls
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-1572B6?style=flat-square&logo=jQuery&logoColor=white"/>
